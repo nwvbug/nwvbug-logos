@@ -1,1 +1,1 @@
-<img src="NWVBUG Logos/purplenwvbug.png" height="200px" width="200px"> <img src="Lang Logos/circular lang icon.png" height="200px" width="200px"> <img src="NWVBUG's Bingo Logos/BingoLogo.png">
+<img src="NWVBUG Logos/purplenwvbug.png" height="200px" width="200px"> <img src="Lang Logos/circular lang icon.png" height="200px" width="200px"> <img src="NWVBUG's Bingo Logos/BingoLogo.png" height="200px" width="200px">
